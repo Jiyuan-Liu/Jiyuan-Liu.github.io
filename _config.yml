@@ -21,7 +21,7 @@ user:
   name: JiyuanLiu
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a student
+  job: 愿能点亮广袤的荒原
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
