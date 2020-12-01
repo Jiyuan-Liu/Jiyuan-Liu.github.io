@@ -349,14 +349,14 @@ img {
 .header_name {
     display: block;
     color: var(--name_font);
-    font-size: 1.5em;
+    font-size: 2.5em;
 }
 
 .header_job {
     display: block;
     margin-top: .1rem;
     color: var(--job_font);
-    font-size: 0.75em;
+    font-size: 1.0em;
     font-weight: 700;
 }
 
@@ -424,6 +424,7 @@ img {
 .nav_list {
     margin: 0;
     padding: 0;
+    font-size: 1.0em;
     list-style: none;
 
     @include mobile-only {
